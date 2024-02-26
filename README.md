@@ -4,7 +4,7 @@ This application is a Streamlit interface for interacting with OpenAI's AI assis
 
 ## Get Started
 
-For detailed instructions and a demonstration of AnaLAssist in action, check out my YouTube tutorial:
+For detailed instructions and a demonstration of OpenAI Assistant in action, check out the link below:
 
 📺 [Open AI Assistants API Overview](https://platform.openai.com/docs/assistants/overview)
 
@@ -23,7 +23,7 @@ Here's a high-level overview of what each function does:
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/otey247/openai-assistant.git`
-2. Navigate to `assistants-api-easy` directory: `cd assistants-api-easy`
+2. Navigate to `openai-assistant` directory: `cd openai-assistant`
 3. You can install the package `poetry install`
 4. Navigate to frontend folder: `cd frontend`
 5. Run with Poetry: `poetry run streamlit run app.py`
